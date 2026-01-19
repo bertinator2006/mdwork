@@ -11,9 +11,10 @@ Agora Insights: 2hr
 Internet: 0.5hr
  - // DONE get an internet plan for the office (might wait for mum)
 
-
 VaultRE: 0.5hr
- - Create a bunch of templates for Oran Park
+ - // PARTIAL Create a bunch of templates for Oran Park
+ - // DONE create a open home thank you template that everyone can use
+ - // DONE Create a post-door knock email and SMS template
 
 
 Other
