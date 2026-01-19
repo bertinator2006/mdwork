@@ -1,7 +1,7 @@
 Work for tomorrow:
 
 Corporate: 1hr
-- write up the analysis of each of the apps from MRI
+- // DONE write up the analysis of each of the apps from MRI
 
 Agora Insights: 2hr
 - make a dashboard for each of the agents for Megha's office
@@ -9,7 +9,7 @@ Agora Insights: 2hr
 - figure out: why does the contact numbers not show correctly
 
 Internet: 0.5hr
-- get an internet plan for the office (might wait for mum)
+- // DONE get an internet plan for the office (might wait for mum)
 
 VaultRE: 0.5hr
 - Create a bunch of templates for Oran Park
