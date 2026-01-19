@@ -1,0 +1,40 @@
+Please note that Realtair is a must have for each lead agent in an office.
+All reccommendations below assume that offices have realtair for all their senior agents.
+
+VaultRE - Is Suitable as a "Source of Truth CRM"
+-> Paying for each office
+-> Nothing to be changed
+ - Used by other companies as well
+ - other companies have modified it for their usage i.e. compass plus
+
+FMS VaultRE - Suitable as a very surface level admin panel and communication platform
+-> Paying for FMS
+-> Nothing to be changed
+ - Required for us to look at and monitor activity for all offices
+ - Useful as a communication tool with franchises
+
+Projects Module - Not assessed
+-> Paying for one module for one office
+-> No reccommendation as I have not used this
+ - Do not have the ability to look through this
+ - Will contact Adrijana
+
+Agora Insights - Having a trial period for Oran Park (not promising)
+-> Paying for 7 accounts right now (one for each office)
+-> Should only be paying for 6 accounts as MD Project doesn't need Agora Insights
+ - Next Tuesday (27th Jan), we will know if Agora Insights is good enough for us
+
+Secure Sign - Poor UI and bad value
+-> Paying for 35 accounts right now
+-> Cancel all licenses
+ - Costs $15 /user/month (cheaper than all industry alternatives)
+ - the poor user experience makes it bad value even though its so cheap
+ - Will be replaced by Realtair and thus has a poor value proposition
+ - One personal docusign account per office is cheaper and better
+ - realtair will replace some of the functionality, docusign will replace the other functionality
+
+Agent Proposals - suitable for creating listing proposals and presentations, will be replaced by Realtair
+-> Paying for 2 accounts right now (was meant to only be for Oran Park)
+-> Cancel both (replace with Realtair)
+ - Was suitable for creating proposals and listing presentations
+ - Realtair will replace this tool
