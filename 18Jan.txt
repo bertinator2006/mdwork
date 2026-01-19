@@ -16,9 +16,6 @@ VaultRE: 0.5hr
  - // DONE create a open home thank you template that everyone can use
  - // DONE Create a post-door knock email and SMS template
 
-
 Other
  - Get ready to visit Multi Dynamic Ingleburn
  - Setup atleast one account for blink to try out for Oran Park office
- - Talk to Tirtha to understand how he works
- - Tell everyone how to add prospect landlords
