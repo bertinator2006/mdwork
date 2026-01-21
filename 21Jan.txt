@@ -1,0 +1,17 @@
+TODO Today:
+
+Conway:
+ - Finish a function that allows terminal to set the board manually
+ - Finish a function that allows one-by-one setting of the board
+
+Oran Park:
+ - Make and completely set up a blink account
+
+Corporate VaultRE Documentation:
+ - Onboarding for new franchise principal
+ - Onboarding for new agents
+ - Onboarding for new admin
+ - Agent Usage Guide
+
+Realtair:
+ - Need to get the admin login to find out how to use it in tandem with VaultRE

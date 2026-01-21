@@ -1,11 +1,15 @@
-Work for tomorrow:
+TODO tomorrow:
+
+INCOMPLETE
+ - Get ready to visit Multi Dynamic Ingleburn
+ - Setup atleast one account for blink to try out for Oran Park office
 
 Corporate: 1hr
  - // DONE write up the analysis of each of the apps from MRI
 
 Agora Insights: 2hr
- - make a dashboard for each of the agents for Megha's office
- - figure out: what does the appraisals actually show
+ - // DONE make a dashboard for each of the agents for Megha's office
+ - // DONE figure out: what does the appraisals actually show
  - figure out: why does the contact numbers not show correctly
 
 Internet: 0.5hr
@@ -15,7 +19,3 @@ VaultRE: 0.5hr
  - // PARTIAL Create a bunch of templates for Oran Park
  - // DONE create a open home thank you template that everyone can use
  - // DONE Create a post-door knock email and SMS template
-
-Other
- - Get ready to visit Multi Dynamic Ingleburn
- - Setup atleast one account for blink to try out for Oran Park office
