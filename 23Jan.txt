@@ -1,0 +1,3 @@
+
+- Email Adrijana about SSO
+- Email RPData about SSO
