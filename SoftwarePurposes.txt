@@ -1,0 +1,89 @@
+# VaultRE 
+## Software Purpose & Benefits
+- source-of-truth database that holds
+	- prospect clients
+	- current clients
+	- prospect properties
+	- listed properties
+	- notes on prospects
+	- sharing contacts
+	- storing office tradies and other such contacts
+- can be used for other purposes but the above is mandated
+- automations that trigger when certain actions are taken in the CRM
+- Mandated templates that need to be used at certain steps of the property journey
+- Reduces errors in communication
+- Speeds up communication between team members for listing and communicating with clients
+
+## Users
+- lead agents (mandated)
+- assistant agents (optional)
+- all admin and principals (mandated)
+
+## Multi Dynamic Value
+- Integrations pre-setup
+- Email signatures already done
+- Complete profiles for agents
+- Branding to make the UI/UX feel more at home
+- Pre-made: Categories; Email and SMS Templates; Action Lists; Designly templates; 
+- Specialised training and knowledgable personell available just a phone call away (very important)
+
+# Agora Insights
+## Software Purpose & Benefits
+- Tracking agent performance and effort
+- Tracking office performance and viability
+- Allows principals to track their office performance in *two clicks*
+- Can be used for principals to make sure agents are properly prospecting and selling
+- Only works if we work within VaultRE properly under guidelines
+
+## Users
+- Principals (ONLY)
+
+## Multi Dynamic Value
+- Our guidelines and premade categories and specific training within VaultRE makes this software more useful
+- Dashboards for Agents pre-made for easy checking of reports
+- Well made dashboard for effectively tracking office
+- Account created and all communications managed by us, no admin required
+
+# Realtair - Unsure, will need to study / use
+## Software Purpose & Benefits
+
+## Users
+- Individual Agents (Optional)
+- Senior Agents with Assistant (Mandated)
+
+## Multi Dynamic Value
+
+
+# Blink - Will start testing 25/01/2026
+## Software Purpose & Benefits
+- Staff have easy and simple access to all apps
+- Allows Principals to easily receive messaging regarding Multi Dynamic services
+- Improve messaging across our franchise network
+- Allow your office to share accomplishments
+- Let you motivate your office
+- Provide access to useful one-time resources
+- Database with relavant contact details and support sections
+
+## Users
+- Agents (Mandated)
+- Property Managers (Mandated)
+- Admin (Mandated)
+- Principals (Mandated)
+
+## Multi Dynamic Value
+- All apps already ready to go from the app
+- SSO allowing simple sign on 
+
+# realestate.com.au
+## Multi Dynamic Value
+- Branding complete and setup
+- Agent profiles all setup and complete
+
+# Google Workspace
+## Users
+- Agents (Mandated - Named i.e. aayush.poudel@multidynamic.com.au)
+- Assistant Agents (Mandated - Named/Unnamed i.e. team.meghap@multidynamic.com.au)
+- Principals (Mandated - Named)
+- Admin (Mandated - Unnamed i.e. oranpark@multidynamic.com.au)
+
+
