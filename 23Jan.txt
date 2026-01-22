@@ -1,3 +1,5 @@
 
 - Email Adrijana about SSO
-- Email RPData about SSO
+- Email RP Data about SSO
+- Complete documentation of the process in markdown format
+- 
