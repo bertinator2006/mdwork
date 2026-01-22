@@ -1,6 +1,6 @@
 TODO tomorrow:
 
-INCOMPLETE
+Failed:
  - Get ready to visit Multi Dynamic Ingleburn
  - Setup atleast one account for blink to try out for Oran Park office
 

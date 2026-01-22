@@ -1,8 +1,8 @@
 TODO Today:
 
 Conway:
- - Finish a function that allows terminal to set the board manually
- - Finish a function that allows one-by-one setting of the board
+ - // DONE Finish a function that allows terminal to set the board manually
+ - // DONE Finish a function that allows one-by-one setting of the board
 
 Oran Park:
  - Make and completely set up a blink account
