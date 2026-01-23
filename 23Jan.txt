@@ -1,5 +1,5 @@
-
-- Email Adrijana about SSO
-- Email RP Data about SSO
+- // POSTPONED Email Adrijana about SSO
+- // POSTPONED Email RP Data about SSO
 - Complete documentation of the process in markdown format
-- 
+- // WAITING EMAIL Find a migration partner Microsoft
+- Re-write the checklists for our processes
