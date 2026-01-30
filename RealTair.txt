@@ -2,3 +2,8 @@ RealTair Setup
 Agent Introduction
 Appraisal Profile
 Listing Presentation Template
+
+Onboarding meeting:
+- Open ignite portal (need to logged into admin account)
+- realtair button -> takes to page that he is on now
+- squares in top right -> settings -> groups
