@@ -1,13 +1,13 @@
 TODO (Everything so far):
-- Photographer call both
-- Realtair webinars
 - // DONE Photographer email (Joseph)
+- // DONE Figure out stock from officeworks
 - // DONE Second photographer
+- // ASKED SAHISA Collate Officeworks purchasing
 - Add new banner to blink
+- Realtair webinars
+- Photographer call both
 - Onboarding document for all tech services
 - Documentation of end to end existing sales process
-- // DONE Figure out stock from officeworks
 - Domain account?
 - Ranjan account fixing
 - SSO for all apps blink
-- // ASKED SAHISA Collate Officeworks purchasing
