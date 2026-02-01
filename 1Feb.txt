@@ -2,8 +2,8 @@ TODO (Everything so far):
 - // DONE Photographer email (Joseph)
 - // DONE Figure out stock from officeworks
 - // DONE Second photographer
-- // ASKED SAHISA Collate Officeworks purchasing
-- Add new banner to blink
+- // DONE Collate Officeworks purchasing
+- // DONE Add new banner to blink
 - Realtair webinars
 - Photographer call both
 - Onboarding document for all tech services
