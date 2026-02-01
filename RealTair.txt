@@ -7,3 +7,11 @@ Onboarding meeting:
 - Open ignite portal (need to logged into admin account)
 - realtair button -> takes to page that he is on now
 - squares in top right -> settings -> groups
+// NOTE: Multi Dynamic Oran Park NOT Multi Dynamic - Oran Park
+- click on office name
+- Login to Corelogic
+- Login to VaultRE (need to login "whoever is the admin is the best eprson to login")
+- Office Integration -> third party access -> add new token
+- Get the token and provide to CoreLogic
+- they have a knowledge base with all the details
+- Market Update, Digital Indrodution, Proposal / Pre-Listing Kit (all created by the Realtair Templates)
