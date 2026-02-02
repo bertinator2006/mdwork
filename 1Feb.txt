@@ -4,6 +4,7 @@ TODO (Everything so far):
 - // DONE Second photographer
 - // DONE Collate Officeworks purchasing
 - // DONE Add new banner to blink
+- // DONE URGENT Setup Megha Oran Park Dashboard
 - Realtair webinars
 - Photographer call both
 - Onboarding document for all tech services
@@ -11,3 +12,5 @@ TODO (Everything so far):
 - Domain account?
 - Ranjan account fixing
 - SSO for all apps blink
+- Blink link to apps for phone
+- Blink micro-app design and support link
