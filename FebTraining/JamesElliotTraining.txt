@@ -1,0 +1,109 @@
+APPRAISAL WIZARD
+- properties should be added through the appraisal wizard to instantly connect the contact
+- appraisal details should be added if there is an appointment (if appraisal it gets populated into pipeline)
+- enter the information under the pipeline - expected appurtunity (expected list date and/or temperature needed to have in pipeline)
+- add as much information as possible
+- BACKDATE your appraisal timing and details
+- need to put price (lower) and price (upper) important to keep track {this is for future note}
+- start entering the appraisal date and price
+-
+
+PIPELINE
+- pipeline is only for potential seller
+- need to train peoople on the pipeline and force them to do the pipeline
+- phone app question for pileline?
+- click on property address to go to the property
+- if you enter all the details, it will be easier for you to call them
+- communication can be recorded through the google suite & the phone app (and/or notes)
+- important to add notes when you call the clients
+- utilise the reminder feature
+- can see the reminders for the notes here
+- click on the temperature forecast arrow to access the different boards (got sales)
+- the expected list date is the key for the pipeline
+- capture the value amounts for the sales
+- new tool (call list)
+- call list can be created through the pipeline feature
+- prospecting -> call list -> create list {more types will come}
+-
+
+FILTER CONTACTS
+- contact requirements
+- can be used for particular streets {property relationship section}
+- use to make your calls more meaningful and connect with the client more
+-
+
+PRECINTS
+- mapping tool for pocket/area
+- owners that own a property within that area
+- useful after selling property
+- create precint first -> properties -> precints
+- the properties are pulled from appraisals
+- James Elliot will call the dev team to add a call list button here
+- can be used to create distrubution lists
+-
+
+CONTACT DISTRIBUTION LISTS
+- like a temporary category for sending emails and texts
+- give name
+- target the marketing
+- can be created from Precints
+-
+
+ORAN PARK
+- create precints for Oran Park team
+- capture that information and record notes
+-
+
+ARTICULATE
+- software for training live and later on
+- onboarding of the people
+-
+
+PROPERTY
+- electornic table is like a digital brochure
+- e-table can include files
+- e-table, you need to upload files into the filing cabinet
+- there is an e-table merge field
+-
+
+REMINDERS
+- stay on top of todolist
+- get the todolist via email in the morning
+- becomes useless if tasks start clogging up
+- todo list has the ability to add a note type
+-
+
+APP TIME
+- settings in the app (checkins for inpections)
+- default owner feedback -> open home /inpection feedback
+- buyer requirements -> ON
+- default contact categories -> do both
+- offline duplicate check -> OFF unless rural
+- automatic SMS setup
+- electronic "table" is a mimic of the physical table that people setup in open homes
+- check in & add feedback
+-
+
+APP CALL LISTS
+- use more often for prospecting
+- you can keep calling, when you dont complete the call list
+-
+
+APP DASHBOARD
+- call list mudule
+- // TODO call list module for Oran Park
+-
+
+APP OPEN HOME
+- setup open home
+- QR code check in sends to HOLDING AREA
+-
+
+PRO TIP
+- adding contact by adding the mobile number FIRST
+-
+
+
+Q&A
+- can I do these settings for the agents in my network
+-
