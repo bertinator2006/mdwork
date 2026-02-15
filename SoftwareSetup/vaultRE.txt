@@ -4,3 +4,4 @@ Write content in the designly templates
 Weekly content for potential buyers - Thur
 Stock update for mortgage broker - Thur
 Just listed send to buyer and potential seller (only once)
+Just sold send to potential buyer and potential seller (only once)

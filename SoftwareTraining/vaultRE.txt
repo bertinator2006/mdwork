@@ -1,0 +1,8 @@
+
+- adding buyer
+- adding seller
+- Adding Requirements:Buyers
+- Adding Contacts from phone calls:
+- sending sms from phone
+- bulk email (only use designly)
+- tracking marketing campaign
