@@ -1,5 +1,2 @@
 Add 3 watermarks with different colour logos
-property duplicates
-agents need to resolve their own duplicates
-filter contacts
 iSMS manager?
