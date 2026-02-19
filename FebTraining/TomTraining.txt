@@ -28,4 +28,4 @@ EXPIRED LISTINGS
 - "You got a good house, your house will be sold soon, if it hasn't give me a call."
 - "Listen what I want to do is bring my buyers through and then see how we go, we will do our best."
 
-// TODO 20 of the best text messages in vault
+// DONE 20 of the best text messages in vault
