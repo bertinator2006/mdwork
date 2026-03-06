@@ -5,5 +5,3 @@ TODO
 - Create a 15 sec montage for Blink
 - Finish documentation for setting up a Blink office
 - Finish documentation for setting up a Blink user
-
-
