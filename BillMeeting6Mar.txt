@@ -27,3 +27,33 @@ Meeting was online, weekly Friday meeting corporate.
 
 ## Oran Park Office
 - not yet done
+
+# Blink
+- every staff member MUST have a login detail by the end of the month
+- mandatory for all staff in all offices
+- why mandatory?
+	- all updates 
+	- security for employment for employees
+	- good feeling
+	- 24 hr access for smooth running
+	- show total number of people we have employed
+	- give instant access to all of our software at once
+- THIS IS PART OF THE MD WAY
+- // TODO make something flashy to send to new staff members
+- // TODO 15 second montage for our company and Blink
+
+# Script for Blink Principal Calling
+- I remember you from the conference
+- "have you got time for a chat for 2 mins"
+- NOTE -> when stuck, ask a question
+- What would you be comfortable with
+- "security for your staff members"
+
+# Next meeting for franchisees details:
+- Ingleburn -> Monday 9th March
+- Auburn -> Monday 9th March
+- Oran Park -> Monday 16th March
+- Fitzgibbon -> Monday 16th March
+- Southport -> Monday 30th March
+- Adelaide -> Monday 30th March
+
